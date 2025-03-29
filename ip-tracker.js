@@ -20,5 +20,5 @@ const trackIP = async (ipAddress) => {
   }
 };
 
-//ur ip for me^^
+//ur ip^^
 trackIP('8.8.8.8');
