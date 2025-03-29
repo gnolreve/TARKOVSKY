@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const trackIP = async (ipAddress) => {
-  const apiKey = 'YOUR_API_KEY'; //
+  const apiKey = 'YOUR_API_KEY'; // api^^
   const url = `http://api.ipstack.com/${ipAddress}?access_key=${apiKey}`;
 
   try {
