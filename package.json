@@ -1,7 +1,7 @@
 {
     "name": "ip-tracker",
     "version": "1.0.0",
-    "description": "A simple IP tracker",
+    "description": "IP tracker",
     "main": "ip-tracker.js",
     "scripts": {
       "start": "node ip-tracker.js"
